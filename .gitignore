@@ -40,3 +40,7 @@ Icon?
 ehthumbs.db
 Thumbs.db
 *.vsidx
+game/Assets/Resources/Sprites.meta
+game/Assets/Resources/Sprites/Cards.meta
+game/Logs/AssetImportWorker0-prev.log
+game/Logs/AssetImportWorker1-prev.log
