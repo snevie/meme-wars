@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\gitgit\\meme-wars\\game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|Assembly-CSharp.csproj|C:\\gitgit\\meme-wars\\game\\assets\\scripts\\cardscr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cardscr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|Assembly-CSharp.csproj|c:\\gitgit\\meme-wars\\game\\assets\\scripts\\scrcardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scrcardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|Assembly-CSharp.csproj|c:\\gitgit\\meme-wars\\game\\assets\\scripts\\dropplacescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|Assembly-CSharp.csproj|C:\\gitgit\\meme-wars\\game\\assets\\scripts\\cardinfoscr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cardinfoscr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|Assembly-CSharp.csproj|C:\\gitgit\\meme-wars\\game\\assets\\scripts\\dropplacescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dropplacescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|Assembly-CSharp.csproj|C:\\gitgit\\meme-wars\\game\\assets\\scripts\\cardmovementscr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cardmovementscr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CardInfoScr.cs",
+              "DocumentMoniker": "C:\\gitgit\\meme-wars\\game\\Assets\\Scripts\\CardInfoScr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CardInfoScr.cs",
+              "ToolTip": "C:\\gitgit\\meme-wars\\game\\Assets\\Scripts\\CardInfoScr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CardInfoScr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T00:03:57.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CardMovementScr.cs",
+              "DocumentMoniker": "C:\\gitgit\\meme-wars\\game\\Assets\\Scripts\\CardMovementScr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CardMovementScr.cs",
+              "ToolTip": "C:\\gitgit\\meme-wars\\game\\Assets\\Scripts\\CardMovementScr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CardMovementScr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T00:02:10.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScrCardManager.cs",
+              "DocumentMoniker": "C:\\gitgit\\meme-wars\\game\\Assets\\Scripts\\ScrCardManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScrCardManager.cs",
+              "ToolTip": "C:\\gitgit\\meme-wars\\game\\Assets\\Scripts\\ScrCardManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScrCardManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:48:49.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DropPlaceScript.cs",
               "DocumentMoniker": "C:\\gitgit\\meme-wars\\game\\Assets\\Scripts\\DropPlaceScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DropPlaceScript.cs",
               "ToolTip": "C:\\gitgit\\meme-wars\\game\\Assets\\Scripts\\DropPlaceScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\DropPlaceScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T22:35:55.559Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CardScr.cs",
-              "DocumentMoniker": "C:\\gitgit\\meme-wars\\game\\Assets\\Scripts\\CardScr.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CardScr.cs",
-              "ToolTip": "C:\\gitgit\\meme-wars\\game\\Assets\\Scripts\\CardScr.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CardScr.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCEAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T17:50:45.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T22:35:55.559Z"
             }
           ]
         }

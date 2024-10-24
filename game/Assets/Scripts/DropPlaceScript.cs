@@ -8,7 +8,7 @@ public class DropScript : MonoBehaviour, IDropHandler
 {
     public void OnDrop(PointerEventData eventData)
     {
-        CardScr card = eventData.pointerDrag.GetComponent<CardScr>();
+        CardMovementScr card = eventData.pointerDrag.GetComponent<CardMovementScr>();
 
         if (card)
             card.DefaultParent = transform;
