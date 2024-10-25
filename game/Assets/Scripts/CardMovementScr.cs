@@ -8,6 +8,7 @@ public class CardMovementScr : MonoBehaviour, IBeginDragHandler, IDragHandler, I
     Camera MainCamera;
     Vector3 offset;
    public Transform DefaultParent;
+  
     void Awake()
     {
         MainCamera = Camera.allCameras[0];
@@ -16,6 +17,7 @@ public class CardMovementScr : MonoBehaviour, IBeginDragHandler, IDragHandler, I
     {
         offset= transform.position - MainCamera.ScreenToWorldPoint(eventData.position);
         DefaultParent = transform.parent;
+        
 
         transform.SetParent(DefaultParent.parent);
         GetComponent<CanvasGroup>().blocksRaycasts= false;
