@@ -19,7 +19,9 @@ public class DropScript : MonoBehaviour, IDropHandler
         CardMovementScr card = eventData.pointerDrag.GetComponent<CardMovementScr>();
 
         if (card)
+        {
+          //  card.GameManager.PlayerFieldCards.Add(card.GetComponent<CardMovementScr>());
             card.DefaultParent = transform;
-
+        }
     }
 }

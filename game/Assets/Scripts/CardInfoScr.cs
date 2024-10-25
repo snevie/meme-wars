@@ -16,6 +16,11 @@ public class CardInfoScr : MonoBehaviour
         Logo.sprite = card.Logo;
         Logo.preserveAspect = true;
         Name.text = card.Name;  
+
+        //Attack.text=SelfCard.Attack.ToString();
+        //Defence.text = SelfCard.Defence.ToString();
+        //Heal.text = SelfCard.Heal.ToString();
+        //Bum.text = SelfCard.Bum.ToString();
     }
 
     private void Start()

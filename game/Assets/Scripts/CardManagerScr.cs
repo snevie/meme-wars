@@ -6,13 +6,13 @@ public struct Card
 {
     public string Name;
     public Sprite Logo;
-    public int Attack, Defense, Heal, Bum;
+    public int Attack, Defence, Heal, Bum;
 
-    public Card(string name, string logoPath, int attack, int defense, int heal, int bum)
+    public Card(string name, string logoPath, int attack, int defenñe, int heal, int bum)
     {
         Name = name;
         Logo = Resources.Load<Sprite>(logoPath);
-        Attack = attack; Defense = defense; Heal = heal; Bum = bum;
+        Attack = attack; Defence = defenñe; Heal = heal; Bum = bum;
     }
 }
 public static class CardManager
